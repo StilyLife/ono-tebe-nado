@@ -64,7 +64,6 @@
   font-style:inherit;
   font-weight: normal;
   justify-self: end;
-  font-style: inherit;
   height: 98px;
   padding-left: 148px;
 }
@@ -111,7 +110,6 @@
   gap: 20px;
   line-height: 1.15;
   z-index: 1;
-  text-transform: uppercase;
 }
 
 .aligned-text {
@@ -321,10 +319,9 @@ word-spacing: 1.2px;
   text-align: center;
   list-style: none;
   font-size: 18px;
-
 }
 
-.footer__menu-link_active{
+.footer__menu-link_active {
   text-decoration: none;
 }
 
@@ -334,7 +331,6 @@ font-size: 18px;
 text-underline-position: under;
 line-height: normal;
 padding-left: 41px;
-
 }
 
 .footer__social-list {
@@ -352,9 +348,7 @@ padding-left: 41px;
   display: flex;
   flex-direction: column;
   font-style:inherit;
-  font-weight: normal;
   justify-self: end;
-  font-style: inherit;
   height: 98px;
   font-size: 18px;
   font-weight: 400;
